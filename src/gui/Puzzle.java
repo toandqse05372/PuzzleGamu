@@ -18,7 +18,7 @@ public class Puzzle extends javax.swing.JFrame {
      * Creates new form XepHinh
      */
     public control.Controller controller;
-
+    //sua o day gdfgfhgfjgfjt
     public Puzzle() {
         initComponents();
         controller = new Controller(this);
